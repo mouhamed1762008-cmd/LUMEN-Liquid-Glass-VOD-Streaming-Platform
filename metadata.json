@@ -1,0 +1,8 @@
+{
+  "name": "LUMEN",
+  "description": "Premium Liquid Glass VOD streaming platform with Apple-inspired aesthetics, cinematic playback, live TV guide, and personalized profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
